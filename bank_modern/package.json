@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "cd bank_modern; vite build",
     "preview": "vite preview"
   },
   "dependencies": {
